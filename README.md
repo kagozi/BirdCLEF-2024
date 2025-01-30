@@ -1,4 +1,4 @@
-# The Application of Artificial Intelligence in classification of understudied bird species using the sound they produce
+# AI in classification of understudied bird species using the sound they produce
 
 > **Note:** All the commands are based on a Unix based system such as _OSX_.
 > For a different system look for similar commands for it.
