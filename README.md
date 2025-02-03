@@ -31,7 +31,7 @@ $ source .venv/bin/activate
 
 **Windows**
 ```bash
-.\.venv\Scripts\activate
+source .venv/Scripts/activate
 ```
 ### Requirements
 
