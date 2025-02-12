@@ -49,4 +49,4 @@ Open a **jupyterlab** instance
 $ jupyter-lab
 ```
 
-The code should be present in the `birdclef.ipynb` file.
+The code should be present in the `spectrogram-method.ipynb` and `rawWave-method.ipynb` files.
