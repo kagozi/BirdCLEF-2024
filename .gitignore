@@ -2,3 +2,4 @@
 .venv/*
 birdclef-2024.zip
 content/*
+*.h5
