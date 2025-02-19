@@ -11,3 +11,4 @@ ipywidgets
 seaborn
 tensorflow_hub
 tensorflow_io
+pydub
