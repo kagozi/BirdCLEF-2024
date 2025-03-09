@@ -12,3 +12,6 @@ seaborn
 tensorflow_hub
 tensorflow_io
 pydub
+transformers
+torchaudio
+evaluate
