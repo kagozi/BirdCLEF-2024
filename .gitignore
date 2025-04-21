@@ -4,4 +4,6 @@ birdclef-2024.zip
 content/*
 logs/*
 *.h5
+logs/*
+models/*
 *.keras
