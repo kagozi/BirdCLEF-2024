@@ -2,4 +2,6 @@
 .venv/*
 birdclef-2024.zip
 content/*
+logs/*
 *.h5
+*.keras
